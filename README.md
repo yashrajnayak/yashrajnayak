@@ -6,7 +6,7 @@ I am a developer turned community professional. For the past 6 years, I have bee
 
 ## Journey So Far
 
-C# sparked my love for software development, and I started my journey as a Windows Phone dev (yes, remember those lovely Nokia Lumia phones?)
+C# sparked my love for software development, and I started my journey as a Windows Phone dev (remember those Nokia Lumia phones?)
 
 My community journey started as a volunteer and contributor in local developer communities in the region. As a Microsoft Student Partner and represented India at a worldwide summit at Microsoft HQ in 2016. I managed the India community at Progate, an online coding learning platform from Japan. Our team enabled platform's growth to 200K users in India. As part of Developer Relations team at OutSystems I focused on expanding developer programs in the Asia-Pacific region, reaching more than 60K developers in two years.
 
