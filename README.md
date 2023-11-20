@@ -10,7 +10,7 @@ C# sparked my love for software development, and I started my journey as a Windo
 
 My community journey started as a volunteer and contributor in local developer communities in the region. As a Microsoft Student Partner and represented India at a worldwide summit at Microsoft HQ in 2016. I managed the India community at Progate, an online coding learning platform from Japan. Our team enabled platform's growth to 200K users in India. As part of Developer Relations team at OutSystems I focused on expanding developer programs in the Asia-Pacific region, reaching more than 60K developers in two years.
 
-My passion is to empower developers to learn, create, and share their superpowers with the world.
+When I am not talking tech, I could talk about planes and aviation for hours ✈️
 
 ## My Toolbox
 
