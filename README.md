@@ -6,11 +6,13 @@ I am a developer turned community professional. For the past 6 years, I have bee
 
 ## Journey So Far
 
-I am people person, and I love helping developers to come together to learn, grow, and collaborate. I started my journey as a Windows Phone developer. C# was my love. 
+I am a developer turned community professional. I love helping developers to come together to learn, grow, and collaborate 🚀
 
-My community journey began as a passionate volunteer during university days, I was a part of Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ. Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific.
+C# was my love. My community journey began as a volunteer during my university days, I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ 🏅
 
-At ANSR. I collaborated with a larger team to build their developer community and programs from scratch and scaled them to 6000+ active developers in 8 months. We hosted 20 successful events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, React-n-Roll Bengaluru, Full Stack Developers Meetups, Women in Tech Mixer and more.
+Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific 🌏
+
+At ANSR, I collaborated with a larger team to build community programs from scratch and scaled to 6000+ active developers in 8 months. Hosted 20 events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, React-n-Roll Bengaluru, Full Stack Developers Meetups, Women in Tech Mixer and more 💡
 
 When I am not working, I love following the world of aviation, can talk about airplanes and all things aviation for hours ✈️
 
