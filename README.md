@@ -2,15 +2,17 @@
 
 I am a developer turned community professional. For the past 6 years, I have been immersed in the 'people' side of technology, building and growing developer communities and programs.
 
-![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1705536000&v=beta&t=O_05S-voalga992pEceO8PhXMh2e4fgjXS94pCGglWQ)
+![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1714608000&v=beta&t=kUJeD8Zzv8j8koSg9IEUQI4u6USGge-gNJxkP4jJhTY)
 
 ## Journey So Far
 
-C# sparked my love for software development, and I started my journey as a Windows Phone dev (remember those Nokia Lumia phones?)
+I am people person, and I love helping developers to come together to learn, grow, and collaborate. I started my journey as a Windows Phone developer. C# was my love. 
 
-My community journey started as a volunteer and contributor in local developer communities in the region. As a Microsoft Student Partner and represented India at a worldwide summit at Microsoft HQ in 2016. I managed the India community at Progate, an online coding learning platform from Japan. Our team enabled platform's growth to 200K users in India. As part of Developer Relations team at OutSystems I focused on expanding developer programs in the Asia-Pacific region, reaching more than 60K developers in two years.
+My community journey began as a passionate volunteer during university days, I was a part of Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ. Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific.
 
-When I am not talking tech, I could talk about planes and aviation for hours ✈️
+At ANSR. I collaborated with a larger team to build their developer community and programs from scratch and scaled them to 6000+ active developers in 8 months. We hosted 20 successful events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, React-n-Roll Bengaluru, Full Stack Developers Meetups, Women in Tech Mixer and more.
+
+When I am not working, I love following the world of aviation, can talk about airplanes and all things aviation for hours ✈️
 
 ## My Toolbox
 
