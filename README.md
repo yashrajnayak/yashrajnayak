@@ -1,6 +1,6 @@
 ## Hi 👋 I am Yashraj!
 
-I've been immersed in the 'people' side of technology for 7 years now, building and growing developer communities across India and APAC.
+I have been immersed in the 'people' side of technology for 7 years now, building and growing developer communities across India and APAC.
 
 ![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1714608000&v=beta&t=kUJeD8Zzv8j8koSg9IEUQI4u6USGge-gNJxkP4jJhTY)
 
