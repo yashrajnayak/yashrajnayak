@@ -6,7 +6,7 @@ I have been immersed in the 'people' side of technology for 7 years now, buildin
 
 ## Journey So Far
 
-As a developer turned community professional, I am really passionate about helping developers to come together to learn and grow 🚀
+As a developer turned community professional, I am really passionate about helping developers to learn and grow 🚀
 
 C# was my first love. My community journey began as a volunteer during my university days, I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ 🏅
 
