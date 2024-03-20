@@ -12,9 +12,9 @@ C# was my first love. My community journey began as a volunteer during my univer
 
 Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific 🌏
 
-At ANSR, I collaborated with a larger team to build community programs from scratch and scaled to 6000+ active developers in 8 months. Hosted 20 events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, React-n-Roll Bengaluru, Full Stack Developers Meetups, Women in Tech Mixer and more 💡
+At ANSR, I collaborated with a larger team to build community programs from scratch and scaled to 6000+ active developers in 8 months. Hosted 20 events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, Full Stack Developers Meetups, Women in Tech Mixer and more.
 
-Now as part of the GitHub Developer Relations team , looking forward to connecting with more developers and building something special at GitHub!
+Now as part of the GitHub Developer Relations team, looking forward to connecting with more developers and building something special at GitHub 💡
 
 When I am not at work, I love following the world of aviation, can talk about airplanes and all things aviation for hours ✈️
 
