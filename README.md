@@ -1,12 +1,12 @@
 ## Hi 👋 I am Yashraj!
 
-I am a developer turned community professional. For the past 6 years, I have been immersed in the 'people' side of technology, building and growing developer communities and programs.
+I am a developer turned community professional. I have been immersed in the 'people' side of technology for about 7 years now, building and growing developer communities across India and APAC.
 
 ![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1714608000&v=beta&t=kUJeD8Zzv8j8koSg9IEUQI4u6USGge-gNJxkP4jJhTY)
 
 ## Journey So Far
 
-As a developer turned community professional, I love helping developers to come together to learn and grow 🚀
+I am really passionate about helping developers to come together to learn and grow 🚀
 
 C# was my first love. My community journey began as a volunteer during my university days, I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ 🏅
 
