@@ -8,7 +8,7 @@ I have been immersed in the 'people' side of technology for 7 years now, buildin
 
 As a developer turned community professional, I am really passionate about helping developers to learn and grow 🚀
 
-C# was my first love. My community journey began as a volunteer during my university days, I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ 🏅
+My community journey began as a volunteer during my university days. C# was my first love. I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ in Redmond 🏅
 
 Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific 🌏
 
