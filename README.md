@@ -1,20 +1,18 @@
 ## Hi 👋 I am Yashraj!
 
-I have been immersed in the 'people' side of technology for 7 years now, building and growing developer communities across India and APAC.
+Developer and People Person. I have been immersed in the 'people' side of technology for 7 years now, building and growing developer communities across India and APAC.
 
-![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1714608000&v=beta&t=kUJeD8Zzv8j8koSg9IEUQI4u6USGge-gNJxkP4jJhTY)
+![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1721865600&v=beta&t=EvEyOIO5zNOi_7n99zz_qzBPowvQ1X4gv0LlRrM2Fno)
 
 ## Journey So Far
 
-As a developer turned community professional, I am really passionate about helping developers to learn and grow 🚀
+My community journey began as a passionate volunteer during my university days. I was part of the Microsoft Student Partners program for four years and represented India at a worldwide summit at Microsoft HQ  🌏
 
-My community journey began as a volunteer during my university days. C# was my first love. I was a part of the Microsoft Student Partner program for 4 years and represented India at a worldwide summit at Microsoft HQ in Redmond 🏅
+Over the years, I built and scaled community programs at Japan-based Progate, reaching 200K learners in India. At OutSystems, I collaborated with a larger team and expanded our community programs to more than 60K low-code developers in India and Southeast Asia. At ANSR, I built community programs from scratch, hosting 20 high-quality technology events with clients such as Delta Air Lines and lululemon, engaging over 6000 active developers in 8 months 💡
 
-Over the years, I built and scaled community programs at Japan-based Progate, driving their user base to 200K in India. As part of OutSystems's Developer Relations team, I focused on expanding community programs to 60K developers in Asia Pacific 🌏
+Currently, I'm helping the GitHub Developer Relations team. We make it easier for developers to work together, solve challenging problems, and create the world’s most important technologies.
 
-At ANSR, I collaborated with a larger team to build community programs from scratch and scaled to 6000+ active developers in 8 months. Hosted 20 events with over 3000 attendees in 2023. These events included ReactJS Bangalore Meetups, Full Stack Developers Meetups, Women in Tech Mixer and more.
-
-Now as part of the GitHub Developer Relations team, looking forward to connecting with more developers and building something special at GitHub 💡
+![]()
 
 When I am not at work, I love following the world of aviation, can talk about airplanes and all things aviation for hours ✈️
 
