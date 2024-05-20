@@ -12,7 +12,7 @@ Over the years, I built and scaled community programs at Japan-based Progate, re
 
 Currently, I'm helping the GitHub Developer Relations team. We make it easier for developers to work together, solve challenging problems, and create the world’s most important technologies.
 
-<img src="https://octodex.github.com/images/Fintechtoca.png" width=400>
+<img src="https://octodex.github.com/images/Fintechtocat.png" width="400">
 
 When I am not at work, I love following the world of aviation, can talk about airplanes and all things aviation for hours ✈️
 
