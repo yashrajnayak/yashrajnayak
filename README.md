@@ -1,8 +1,8 @@
 ## Hi 👋 I am Yashraj!
 
-Developer and People Person. I have been immersed in the 'people' side of technology for 7 years now, building and growing developer communities across India and APAC.
+ I am a developer and people person. I have been immersed in the 'people' side of technology for over 7 years now, building and growing developer communities across India and APAC.
 
-![](https://media.licdn.com/dms/image/D5616AQFNaXtfig2YtA/profile-displaybackgroundimage-shrink_350_1400/0/1700306832623?e=1721865600&v=beta&t=EvEyOIO5zNOi_7n99zz_qzBPowvQ1X4gv0LlRrM2Fno)
+![](https://media.licdn.com/dms/image/D5616AQFf9gpv62BB4w/profile-displaybackgroundimage-shrink_350_1400/0/1718638646782?e=1724889600&v=beta&t=4EYgYMU2jsWFx48QJC2pcxdTXky9C-tbSSpRHf7Uuec)
 
 ## Journey So Far
 
