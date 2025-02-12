@@ -2,7 +2,7 @@
 
  I am a developer and people person. I have been immersed in the 'people' side of technology for over 7 years now, building and growing developer communities across India and APAC.
 
-![](https://media.licdn.com/dms/image/D5616AQFf9gpv62BB4w/profile-displaybackgroundimage-shrink_350_1400/0/1718638646782?e=1724889600&v=beta&t=4EYgYMU2jsWFx48QJC2pcxdTXky9C-tbSSpRHf7Uuec)
+![image](https://github.com/user-attachments/assets/26e842cb-eea3-4171-9a57-beb772f54347)
 
 ## Journey So Far
 
