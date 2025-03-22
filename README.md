@@ -38,8 +38,8 @@ My community journey began as a Microsoft Student Partner during university, whe
 
 ```javascript
 const skills = {
-  communityBuilding: ['Program Management', 'Event Management', 'Developer Engagement'],
-  technical: ['GitHub', 'Project Management', 'Low-Code Development'],
+  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy'],
+  technical: ['JavaScript', 'React', 'Microsoft Azure', 'GitHub Actions', 'Low-Code Development'],
   languages: ['English', 'Hindi']
 };
 ```
