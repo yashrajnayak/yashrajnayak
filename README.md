@@ -13,8 +13,8 @@ My community journey began as a Microsoft Student Partner during university, whe
 ## Professional Experience
 
 **GitHub** | Program Manager, Developer Relations (Mar 2024 - Present)
-- Planning and end-to-end execution of Constellation 2024, GitHub's developer conference with 900+ in-person attendees in Bengaluru, India
-- Growing key programs like the Global Meetups Program and first party events such as GitHub Universe Recap and GitHub Connect India
+- End-to-end execution of Constellation 2024, GitHub's developer conference with 900+ in-person attendees in Bengaluru, India
+- Growing key programs like the Global Meetups Program and 1st party events such as GitHub Universe Recap and GitHub Connect India
 - Scaling GitTogethers in India, developer meetups led by local community experts and powered by GitHub. Hosting 4 premier developer meetups every month in Bengaluru, Delhi NCR, Hyderabad, and Mumbai since July 2024. Featured over 90 speakers and engaged more than 2,000 of India's most active developers, bringing them closer to the GitHub ecosystem
 
 **ANSR** | Senior Community Manager (Mar 2023 - Feb 2024)
@@ -35,8 +35,8 @@ My community journey began as a Microsoft Student Partner during university, whe
 
 **Skillenza** | Community Manager (Aug 2017 - Feb 2018)
 - Worked alongside teams from DigitalOcean, AWS, Digital Domain, Société Générale, etc to plan and execute various developer events across the country (both online and offline)
-- Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons in cities across India. While working with teams from T-Hub, Microsoft, NVIDIA and PwC
-- Handled Skillenza's student developer engagement. Supported 25+ hackathons in different campuses reaching thousands of university students
+- Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons in cities while working with teams from T-Hub, Microsoft, NVIDIA and PwC
+- Handled Skillenza's student developer engagement and supported 25+ hackathons in different campuses across the country
 
 ## Skills & Technologies
 
