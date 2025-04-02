@@ -6,16 +6,16 @@ Developer and People Person.
 
 Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
 
-My community journey began as a Microsoft Student Partner during university, where I proudly represented India at a worldwide summit at Microsoft HQ. Over the years, I've built and scaled developer communities that have reached hundreds of thousands of tech enthusiasts.
+My community journey began as a Microsoft Student Partner during university, where I proudly represented India at a worldwide summit at Microsoft HQ. Over the past 8 years, I've built and scaled developer communities that have reached hundreds of thousands of tech enthusiasts.
 
 ![image](images/linkedin-cover.jpeg)
 
 ## Professional Experience
 
 **GitHub** | Program Manager, Developer Relations (Mar 2024 - Present)
-- End-to-end execution of Constellation 2024, GitHub's developer conference with 900+ in-person attendees in Bengaluru, India
+- Successfully hosted GitHub Constellation 2024, 900+ developer conference in Bengaluru, India
 - Growing key programs like the Global Meetups Program and 1st party events such as GitHub Universe Recap and GitHub Connect India
-- Scaling GitTogethers in India, developer meetups led by local community experts and powered by GitHub. Hosting 4 premier developer meetups every month in Bengaluru, Delhi NCR, Hyderabad, and Mumbai since July 2024. Featured over 90 speakers and engaged more than 2,000 of India's most active developers, bringing them closer to the GitHub ecosystem
+- Scaling GitTogethers in India, developer meetups led by local community experts and powered by GitHub. Hosting 4 premier developer meetups every month in Bengaluru, Delhi NCR, Hyderabad, and Mumbai. Featured over 90 speakers and engaged more than 2,000 of India's most active developers, bringing them closer to the GitHub ecosystem
 
 **ANSR** | Senior Community Manager (Mar 2023 - Feb 2024)
 - Built community programs from scratch, reaching 6,000+ active developers in 8 months
@@ -34,20 +34,25 @@ My community journey began as a Microsoft Student Partner during university, whe
 - Reached 6,000+ high school students through Hour of Code™ 2018 Campaign
 
 **Skillenza** | Community Manager (Aug 2017 - Feb 2018)
-- Worked alongside teams from DigitalOcean, AWS, Digital Domain, Société Générale, etc to plan and execute various developer events across the country (both online and offline)
-- Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons in cities while working with teams from T-Hub, Microsoft, NVIDIA and PwC
+- Worked alongside teams from DigitalOcean, AWS, Digital Domain, Société Générale, etc to plan and execute developer events across the country (both online and offline)
+- Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons while working with teams from T-Hub, Microsoft, NVIDIA and PwC
 - Handled Skillenza's student developer engagement and supported 25+ hackathons in different campuses across the country
+
 
 ## Skills & Technologies
 
 ```javascript
 const skills = {
-  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy'],
-  technical: ['JavaScript', 'React', 'Microsoft Azure', 'GitHub Actions', 'Low-Code Development'],
-  languages: ['English', 'Hindi']
+  technical: ['React', 'CI/CD with GitHub Actions', 'Microsoft Azure', 'Technical Presentations'],
+  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy','User Research and Feedback','Community Building'],
+  languages: ['JavaScript', 'C#', 'English', 'Hindi']
 };
 ```
-<img src="https://octodex.github.com/images/Fintechtocat.png" width="400">
+
+### Certifications
+- [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
+- [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
+- [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
 
 ## Connect With Me
 
