@@ -1,14 +1,29 @@
-# Hi 👋 I'm Yashraj!
+## Hi! I am Yashraj 👋
 
-Developer and People Person.
+<div align="left">
+  
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajnayak/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/yashrajnayak)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak)
 
-## About Me
+</div>
 
-Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
+My community journey began as a Microsoft Student Partner during university, where I represented India at a worldwide summit at Microsoft HQ. Over the past 8 years, I've built and scaled developer communities that have reached hundreds of thousands of tech enthusiasts.
 
-My community journey began as a Microsoft Student Partner during university, where I proudly represented India at a worldwide summit at Microsoft HQ. Over the past 8 years, I've built and scaled developer communities that have reached hundreds of thousands of tech enthusiasts.
+Currently working as Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
 
 ![image](images/linkedin-cover.jpeg)
+
+## Skills & Technologies
+
+```javascript
+const skills = {
+  technical: ['JavaScript and C#', 'React', 'CI/CD with GitHub Actions', 'Microsoft Azure', 'Technical Presentations'],
+  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy', 'User Research and Feedback', 'Community Building'],
+  languages: ['English', 'Hindi']
+};
+```
 
 ## Professional Experience
 
@@ -39,29 +54,17 @@ My community journey began as a Microsoft Student Partner during university, whe
 - Handled Skillenza's student developer engagement and supported 25+ hackathons in different campuses across the country
 
 
-## Skills & Technologies
-
-```javascript
-const skills = {
-  technical: ['React', 'CI/CD with GitHub Actions', 'Microsoft Azure', 'Technical Presentations'],
-  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy','User Research and Feedback','Community Building'],
-  languages: ['JavaScript', 'C#', 'English', 'Hindi']
-};
-```
-
 ### Certifications
 - [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
 - [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
 - [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
 
-## Connect With Me
+## 📈 GitHub Stats
 
-[![Twitter][1.1]][1.2]
+<div align="left">
 
-[1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-[1.2]: https://twitter.com/yashrajnayak
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-[![LinkedIn][2.1]][2.2]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[2.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[2.2]: https://www.linkedin.com/in/yashrajnayak
+</div>
