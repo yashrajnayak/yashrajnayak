@@ -42,7 +42,7 @@ const skills = {
 - Led initiatives like #14DaysOfOutSystems Challenge and OutSystems Student Accelerator
 - Supported OutSystems User Group organizers across APAC to build strong local communities
 
-**Progate** | India Community Manager (Jun 2018 - Mar 2021)
+**Progate** | India Community Manager (Jun 2018 - Feb 2021)
 - Helped this Japanese coding learning platform to grow userbase to 200,000+ learners in India
 - Established Community Partnership with Hacktoberfest 2020 and other non-profits
 - Organized 30+ Learning Jams across major Indian cities
@@ -52,7 +52,6 @@ const skills = {
 - Worked alongside teams from DigitalOcean, AWS, Digital Domain, Société Générale, etc to plan and execute developer events across the country (both online and offline)
 - Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons while working with teams from T-Hub, Microsoft, NVIDIA and PwC
 - Handled Skillenza's student developer engagement and supported 25+ hackathons in different campuses across the country
-
 
 ### Certifications
 - [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
