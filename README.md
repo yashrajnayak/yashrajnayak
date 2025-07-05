@@ -1,11 +1,9 @@
-## Hi! I am Yashraj 👋
+# Hi! I am Yashraj 👋
 
 <div align="left">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajnayak/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/yashrajnayak)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak.dev)
 
 </div>
 
@@ -13,7 +11,23 @@ My community journey began as a Microsoft Student Partner during university, whe
 
 Currently working as Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
 
-![image](images/linkedin-cover.jpeg)
+## Latest Projects
+
+**GitHub Constellation 2024** (June 12, 2024)
+- GitHub's developer conference featuring a keynote by GitHub CEO Thomas Dohmke, 20+ speakers and 900+ in-person attendees.
+- Collaborated with external agencies and multiple teams within organization.
+- Managed end-to-end execution, including website management, venue logistics, emceeing, speakers and attendee engagement.
+
+**GitTogether Meetups Automation System** (2024)
+- 4-stage GitHub Actions pipeline with multi-repository orchestration and API integration
+- Automated issue creation, assignment, and lifecycle management with 80% reduction in manual overhead
+- Tech Stack: Node.js, GitHub Actions, GraphQL/REST APIs, YAML configuration management
+
+**GitTogethers Registration Web Platform** (2024)
+- Modern responsive web application for developer event registration and check-in management
+- GitHub API integration with smart event filtering, form validation, and mobile optimization
+- Tech Stack: Vanilla JavaScript (ES6), jQuery, CSS Grid/Flexbox, GitHub API
+- [View Live Demo](https://gittogethers.github.io/)
 
 ## Skills & Technologies
 
@@ -24,34 +38,6 @@ const skills = {
   languages: ['English', 'Hindi']
 };
 ```
-
-## Professional Experience
-
-**GitHub** | Program Manager, Developer Relations (Mar 2024 - Present)
-- Successfully hosted GitHub Constellation 2024, 900+ developer conference in Bengaluru, India
-- Growing key programs like the Global Meetups Program and 1st party events such as GitHub Universe Recap and GitHub Connect India
-- Scaling GitTogethers in India, developer meetups led by local community experts and powered by GitHub. Hosting 4 premier developer meetups every month in Bengaluru, Delhi NCR, Hyderabad, and Mumbai. Featured over 90 speakers and engaged more than 2,000 of India's most active developers, bringing them closer to the GitHub ecosystem
-
-**ANSR** | Senior Community Manager (Mar 2023 - Feb 2024)
-- Built community programs from scratch, reaching 6,000+ active developers in 8 months
-- Hosted 20 successful tech events with 3,000+ attendees (React-n-Roll Meetups, Women in Tech Mixers)
-- Advocated for community needs within the GCC ecosystem
-
-**OutSystems** | APAC Community Growth Manager (Mar 2021 - Feb 2023)
-- Expanded global community programs throughout Asia-Pacific
-- Led initiatives like #14DaysOfOutSystems Challenge and OutSystems Student Accelerator
-- Supported OutSystems User Group organizers across APAC to build strong local communities
-
-**Progate** | India Community Manager (Jun 2018 - Feb 2021)
-- Helped this Japanese coding learning platform to grow userbase to 200,000+ learners in India
-- Established Community Partnership with Hacktoberfest 2020 and other non-profits
-- Organized 30+ Learning Jams across major Indian cities
-- Reached 6,000+ high school students through Hour of Code™ 2018 Campaign
-
-**Skillenza** | Community Manager (Aug 2017 - Feb 2018)
-- Worked alongside teams from DigitalOcean, AWS, Digital Domain, Société Générale, etc to plan and execute developer events across the country (both online and offline)
-- Helped in the execution of Hack2Innovate 2017, series of 7 deep-tech hackathons while working with teams from T-Hub, Microsoft, NVIDIA and PwC
-- Handled Skillenza's student developer engagement and supported 25+ hackathons in different campuses across the country
 
 ### Certifications
 - [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
