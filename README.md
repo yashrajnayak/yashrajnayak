@@ -11,6 +11,21 @@ My community journey began as a Microsoft Student Partner during university, whe
 
 Currently working as Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
 
+## Skills & Technologies
+
+```javascript
+const skills = {
+  technical: ['JavaScript and C#', 'React', 'CI/CD with GitHub Actions', 'Microsoft Azure', 'Technical Presentations'],
+  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy', 'User Research and Feedback', 'Community Building'],
+  languages: ['English', 'Hindi']
+};
+```
+
+## Certifications
+- [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
+- [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
+- [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
+
 ## Latest Projects
 
 **GitHub Constellation 2024** (June 12, 2024)
@@ -28,21 +43,6 @@ Currently working as Program Manager at GitHub Developer Relations, where I help
 - GitHub API integration with smart event filtering, form validation, and mobile optimization
 - Tech Stack: Vanilla JavaScript (ES6), jQuery, CSS Grid/Flexbox, GitHub API
 - [View Live Demo](https://gittogethers.github.io/)
-
-## Skills & Technologies
-
-```javascript
-const skills = {
-  technical: ['JavaScript and C#', 'React', 'CI/CD with GitHub Actions', 'Microsoft Azure', 'Technical Presentations'],
-  developerRelations: ['Program Management', 'Developer Engagement', 'Developer Advocacy', 'User Research and Feedback', 'Community Building'],
-  languages: ['English', 'Hindi']
-};
-```
-
-### Certifications
-- [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
-- [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
-- [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
 
 ## 📈 GitHub Stats
 
