@@ -4,6 +4,8 @@
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajnayak/)
+[![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/yashrajnayak)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak)
 
 </div>
 
@@ -24,6 +26,7 @@ const skills = {
 ## Certifications
 - [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
 - [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
+- [Microsoft Applied Skills: Accelerate App Development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-in/yashrajnayak/962FF988EFFAE330?sharingId=7AC6735FC0CD4144)
 - [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
 
 ## Latest Projects
