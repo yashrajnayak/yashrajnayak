@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajnayak/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/yashrajnayak)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak.dev)
 
 </div>
 
