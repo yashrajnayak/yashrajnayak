@@ -9,9 +9,9 @@
 
 </div>
 
-My community journey began as a Microsoft Student Partner during university, where I represented India at a worldwide summit at Microsoft HQ. Over the past 8 years, I've built and scaled developer communities that have reached hundreds of thousands of tech enthusiasts.
+Developer community leader with about 9 years of experience building and scaling tech communities across India and APAC. Started as a Microsoft Student Partner representing India at Microsoft HQ, and went on to grow large-scale developer ecosystems at Progate, OutSystems, ANSR, and GitHub. 
 
-Currently working as Program Manager at GitHub Developer Relations, where I help spark creativity and excitement around GitHub while finding new ways to connect with developers worldwide.
+Led initiatives engaging 200K+ learners and 75K+ developers, launched high-impact learning programs, hackathons, and events, and built communities from the ground up for global brands. Passionate about fostering authentic connections and creating spaces where developers learn, collaborate, and thrive.
 
 ## Skills & Technologies
 
