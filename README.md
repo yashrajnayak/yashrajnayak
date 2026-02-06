@@ -51,8 +51,8 @@ const skills = {
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
