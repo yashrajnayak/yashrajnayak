@@ -2,16 +2,16 @@
 
 <div align="left">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://yashrajnayak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashrajnayak/)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/yashrajnayak)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/yashrajnayak.dev)
 
 </div>
 
-Developer community leader with about 9 years of experience building and scaling tech communities across India and APAC. Started as a Microsoft Student Partner representing India at Microsoft HQ, and went on to grow large-scale developer ecosystems at Progate, OutSystems, ANSR, and GitHub. 
+Developer and people person with 9+ years of experience building and scaling developer communities across India and APAC. I currently lead University Alliances and Student Programs for Databricks in India, helping build a stronger pipeline of data and AI talent across top institutions.
 
-Led initiatives engaging 200K+ learners and 75K+ developers, launched high-impact learning programs, hackathons, and events, and built communities from the ground up for global brands. Passionate about fostering authentic connections and creating spaces where developers learn, collaborate, and thrive.
+Previously, I supported MongoDB User Groups globally, contributed to GitHub Developer Relations programs in India, grew OutSystems' APAC community, scaled Progate's India community to 200,000+ learners, and worked on community programs across ANSR, Skillenza, and Uber. My focus is creating authentic spaces where developers can learn, collaborate, and thrive.
 
 ## Skills & Technologies
 
