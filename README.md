@@ -31,15 +31,19 @@ const yashraj = {
 };
 ```
 
-## Current Builds
+## Most Starred Repos
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Luma Bulk Check-In](https://github.com/yashrajnayak/luma-bulk-checkin) | Chrome extension for operator-assisted bulk check-in on Luma event pages. | JavaScript, Chrome Extensions |
-| [Codex Fli Flight Search Skill](https://github.com/yashrajnayak/codex-fli-flight-search-skill) | Codex skill for searching and comparing Google Flights results with `fli`. | Python, Codex Skills |
-| [TalkForge](https://github.com/yashrajnayak/talkforge) | AI-powered conference talk and workshop topic generator from LinkedIn profiles. | JavaScript, Gemini, PDF.js |
-| [List Minus](https://github.com/yashrajnayak/list-minus) | Minimal static tool for subtracting one line-based list from another. | HTML, CSS, JavaScript |
-| [Developer Portfolio](https://github.com/yashrajnayak/developer-portfolio) | Configurable developer portfolio designed for GitHub Pages. | JavaScript, GitHub Pages |
+<!-- TOP-REPOS:START -->
+| Repository | Stars | Description | Language |
+| --- | ---: | --- | --- |
+| [developer-portfolio](https://github.com/yashrajnayak/developer-portfolio) | 96 | A modern, fully configurable developer portfolio that adapts to your content. Built with vanilla JavaScript and designed for GitHub Pages with automatic setup and dynamic content loading | JavaScript |
+| [connecticut](https://github.com/yashrajnayak/connecticut) | 5 | Analyzes and visualizes connections between GitHub users, particularly useful for developer meetups and networking events. | JavaScript |
+| [linkedin-invitation-manager](https://github.com/yashrajnayak/linkedin-invitation-manager) | 3 | A powerful Chromium extension that transforms your LinkedIn connection request management with a beautiful, swipe-based interface. | JavaScript |
+| [connecticut-v1](https://github.com/yashrajnayak/connecticut-v1) | 2 | Earlier version of Connecticut for analyzing GitHub connections at developer events. | JavaScript |
+| [connecticut-plus](https://github.com/yashrajnayak/connecticut-plus) | 2 | Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time. | JavaScript |
+| [vrat-katha](https://github.com/yashrajnayak/vrat-katha) | 1 | A lightweight, mobile-first Progressive Web App (PWA) for reading weekly Hindu vrat kathas in Hindi. | JavaScript |
+<!-- TOP-REPOS:END -->
+<!-- Portfolio feed: data/top-repos.json is generated from the same ranked repository list. -->
 
 ## Selected DevRel Work
 
