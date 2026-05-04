@@ -6,7 +6,6 @@ Program Manager, Developer Relations at Databricks. I work at the intersection o
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yashrajnayak.com-2ea44f?style=for-the-badge)](https://yashrajnayak.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashrajnayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajnayak/)
 [![X](https://img.shields.io/badge/X-yashrajnayak-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yashrajnayak)
 [![Instagram](https://img.shields.io/badge/Instagram-yashrajnayak.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashrajnayak.dev)
