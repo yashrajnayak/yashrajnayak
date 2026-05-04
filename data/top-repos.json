@@ -1,0 +1,123 @@
+[
+  {
+    "name": "developer-portfolio",
+    "fullName": "yashrajnayak/developer-portfolio",
+    "description": "A modern, fully configurable developer portfolio that adapts to your content. Built with vanilla JavaScript and designed for GitHub Pages with automatic setup and dynamic content loading",
+    "url": "https://github.com/yashrajnayak/developer-portfolio",
+    "homepage": "",
+    "language": "JavaScript",
+    "stars": 96,
+    "forks": 6,
+    "topics": [
+      "developer-portfolio",
+      "featured",
+      "github-pages",
+      "portfolio",
+      "responsive-design",
+      "vanilla-javascript"
+    ],
+    "updatedAt": "2026-05-04T16:13:53Z",
+    "pushedAt": "2026-02-06T12:02:32Z"
+  },
+  {
+    "name": "connecticut",
+    "fullName": "yashrajnayak/connecticut",
+    "description": "Analyzes and visualizes connections between GitHub users, particularly useful for developer meetups and networking events.",
+    "url": "https://github.com/yashrajnayak/connecticut",
+    "homepage": "https://yashrajnayak.github.io/connecticut/",
+    "language": "JavaScript",
+    "stars": 5,
+    "forks": 4,
+    "topics": [
+      "developer-events",
+      "github-api",
+      "javascript",
+      "networking",
+      "social-graph",
+      "visualization"
+    ],
+    "updatedAt": "2026-05-04T16:14:25Z",
+    "pushedAt": "2025-03-17T16:06:32Z"
+  },
+  {
+    "name": "linkedin-invitation-manager",
+    "fullName": "yashrajnayak/linkedin-invitation-manager",
+    "description": "A powerful Chromium extension that transforms your LinkedIn connection request management with a beautiful, swipe-based interface.",
+    "url": "https://github.com/yashrajnayak/linkedin-invitation-manager",
+    "homepage": "",
+    "language": "JavaScript",
+    "stars": 3,
+    "forks": 0,
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "featured",
+      "javascript",
+      "linkedin",
+      "productivity"
+    ],
+    "updatedAt": "2026-05-04T16:14:15Z",
+    "pushedAt": "2025-07-06T13:08:56Z"
+  },
+  {
+    "name": "connecticut-v1",
+    "fullName": "yashrajnayak/connecticut-v1",
+    "description": "Earlier version of Connecticut for analyzing GitHub connections at developer events.",
+    "url": "https://github.com/yashrajnayak/connecticut-v1",
+    "homepage": "https://yashrajnayak.github.io/connecticut-v1/",
+    "language": "JavaScript",
+    "stars": 2,
+    "forks": 0,
+    "topics": [
+      "developer-events",
+      "github-api",
+      "javascript",
+      "networking",
+      "social-graph",
+      "visualization"
+    ],
+    "updatedAt": "2026-05-04T16:17:41Z",
+    "pushedAt": "2024-12-20T18:58:11Z"
+  },
+  {
+    "name": "connecticut-plus",
+    "fullName": "yashrajnayak/connecticut-plus",
+    "description": "Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time.",
+    "url": "https://github.com/yashrajnayak/connecticut-plus",
+    "homepage": "https://yashrajnayak.github.io/connecticut-plus/",
+    "language": "JavaScript",
+    "stars": 2,
+    "forks": 1,
+    "topics": [
+      "developer-events",
+      "github-api",
+      "javascript",
+      "networking",
+      "social-graph",
+      "visualization"
+    ],
+    "updatedAt": "2026-05-04T16:14:54Z",
+    "pushedAt": "2024-09-03T19:43:23Z"
+  },
+  {
+    "name": "vrat-katha",
+    "fullName": "yashrajnayak/vrat-katha",
+    "description": "A lightweight, mobile-first Progressive Web App (PWA) for reading weekly Hindu vrat kathas in Hindi.",
+    "url": "https://github.com/yashrajnayak/vrat-katha",
+    "homepage": "https://yashrajnayak.com/vrat-katha/",
+    "language": "JavaScript",
+    "stars": 1,
+    "forks": 1,
+    "topics": [
+      "hindi",
+      "hinduism",
+      "javascript",
+      "mobile-first",
+      "progressive-web-app",
+      "pwa",
+      "vrat-katha"
+    ],
+    "updatedAt": "2026-05-04T16:13:45Z",
+    "pushedAt": "2026-02-22T16:20:04Z"
+  }
+]
