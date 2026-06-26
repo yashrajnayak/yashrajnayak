@@ -100,24 +100,22 @@
     "pushedAt": "2024-09-03T19:43:23Z"
   },
   {
-    "name": "vrat-katha",
-    "fullName": "yashrajnayak/vrat-katha",
-    "description": "A lightweight, mobile-first Progressive Web App (PWA) for reading weekly Hindu vrat kathas in Hindi.",
-    "url": "https://github.com/yashrajnayak/vrat-katha",
-    "homepage": "https://yashrajnayak.com/vrat-katha/",
+    "name": "yashrajnayak.github.io",
+    "fullName": "yashrajnayak/yashrajnayak.github.io",
+    "description": "The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.",
+    "url": "https://github.com/yashrajnayak/yashrajnayak.github.io",
+    "homepage": "http://yashrajnayak.com/",
     "language": "JavaScript",
     "stars": 1,
-    "forks": 1,
+    "forks": 0,
     "topics": [
-      "hindi",
-      "hinduism",
+      "github-pages",
       "javascript",
-      "mobile-first",
-      "progressive-web-app",
-      "pwa",
-      "vrat-katha"
+      "personal-website",
+      "portfolio",
+      "resume"
     ],
-    "updatedAt": "2026-05-04T16:13:45Z",
-    "pushedAt": "2026-02-22T16:20:04Z"
+    "updatedAt": "2026-06-26T05:42:54Z",
+    "pushedAt": "2026-06-22T03:34:45Z"
   }
 ]

@@ -41,7 +41,7 @@ const yashraj = {
 | [linkedin-invitation-manager](https://github.com/yashrajnayak/linkedin-invitation-manager) | 3 | A powerful Chromium extension that transforms your LinkedIn connection request management with a beautiful, swipe-based interface. | JavaScript |
 | [connecticut-v1](https://github.com/yashrajnayak/connecticut-v1) | 2 | Earlier version of Connecticut for analyzing GitHub connections at developer events. | JavaScript |
 | [connecticut-plus](https://github.com/yashrajnayak/connecticut-plus) | 2 | Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time. | JavaScript |
-| [vrat-katha](https://github.com/yashrajnayak/vrat-katha) | 1 | A lightweight, mobile-first Progressive Web App (PWA) for reading weekly Hindu vrat kathas in Hindi. | JavaScript |
+| [yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) | 1 | The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements. | JavaScript |
 <!-- TOP-REPOS:END -->
 <!-- Portfolio feed: data/top-repos.json is generated from the same ranked repository list. -->
 
