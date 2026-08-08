@@ -1,37 +1,32 @@
-<img src="./images/linkedin-cover.jpeg" alt="Yashraj Nayak banner" width="100%" />
+# Hi, I’m Yashraj Nayak
 
-# Hi, I'm Yashraj Nayak
+Developer Relations and University Programs Leader. University Alliances and Student Programs Lead for Databricks in India, with 9+ years building developer education, events, and community systems across India and APAC.
 
-Program Manager, Developer Relations at Databricks. I work at the intersection of developer communities, data and AI education, university programs, and practical tooling that helps teams run better developer experiences.
+- I’m currently **University Alliances and Student Programs Lead, India** at **Databricks**.
+- I’m based in **Bengaluru, India**.
+- My focus areas are **University partnerships**, **Developer education**, **Community programs**, **Event operations**, **Program automation**.
 
-<div align="left">
+## Selected impact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashrajnayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajnayak/)
-[![X](https://img.shields.io/badge/X-yashrajnayak-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yashrajnayak)
-[![Instagram](https://img.shields.io/badge/Instagram-yashrajnayak.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashrajnayak.dev)
+- **9+** Years building communities
+- **200,000+** Learners reached
+- **4,600+** User-group RSVPs
+- **900+** Conference attendees
 
-</div>
+## Selected work
 
-## About
+- **GitHub Constellation 2024** — Supported GitHub’s flagship Bengaluru developer conference from program planning through the on-site experience. ([view](https://github.com/about/diversity/report))
+- **MongoDB User Groups** — Aligned and supported a global user-group program while helping local leaders build sustainable developer communities. ([view](https://www.mongodb.com/community/forums/t/about-the-user-groups-events-category/37))
+- **GitTogether Meetups Automation** — Built a four-stage automation pipeline for repeatable, multi-repository meetup operations. ([view](https://gittogethers.github.io/))
 
-- I lead University Alliances and Student Programs for Databricks in India, helping build a stronger pipeline of data and AI talent across institutions.
-- I have 9+ years of experience building and scaling developer communities across India and APAC.
-- Previously, I supported MongoDB User Groups globally, contributed to GitHub Developer Relations programs in India, grew OutSystems' APAC community, and helped Progate reach 200,000+ learners in India.
-- I enjoy turning repeatable community operations into lightweight tools, automations, playbooks, and products.
-- Based in Bangalore, India.
+## Credentials
 
-## What I Work With
+- [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
+- [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
+- [Microsoft Applied Skills](https://learn.microsoft.com/api/credentials/share/en-in/yashrajnayak/962FF988EFFAE330?sharingId=7AC6735FC0CD4144)
+- [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
 
-```javascript
-const yashraj = {
-  currentFocus: ['Databricks', 'University Alliances', 'Student Programs', 'Data + AI education'],
-  devRel: ['Program Management', 'Developer Engagement', 'Community Building', 'Technical Events'],
-  technical: ['JavaScript', 'React', 'C#', 'GitHub Actions', 'Microsoft Azure'],
-  languages: ['English', 'Hindi']
-};
-```
-
-## Most Starred Repos
+## Open-source work
 
 <!-- TOP-REPOS:START -->
 | Repository | Stars | Description | Language |
@@ -43,28 +38,10 @@ const yashraj = {
 | [connecticut-plus](https://github.com/yashrajnayak/connecticut-plus) | 2 | Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time. | JavaScript |
 | [yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) | 1 | The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements. | JavaScript |
 <!-- TOP-REPOS:END -->
-<!-- Portfolio feed: data/top-repos.json is generated from the same ranked repository list. -->
 
-## Selected DevRel Work
+## Connect
 
-- **GitHub Constellation 2024** - supported GitHub's Bengaluru developer conference with 20+ speakers and 900+ in-person attendees.
-- **GitTogether Meetups Automation System** - built a GitHub Actions pipeline for multi-repository event operations, issue creation, assignment, and lifecycle tracking.
-- **GitTogethers Registration Web Platform** - built a responsive event registration and check-in platform with GitHub API integration.
-- **MongoDB User Groups** - supported 40 existing user groups globally and helped launch or revive chapters in Seoul, Abu Dhabi, Rio de Janeiro, and Cape Town.
+- [GitHub](https://github.com/yashrajnayak)
+- [LinkedIn](https://www.linkedin.com/in/yashrajnayak/)
 
-## Certifications
-
-- [GitHub Foundations](https://www.credly.com/badges/7754da79-07d9-4abe-9f9e-e0c9a84a34b4/)
-- [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
-- [Microsoft Applied Skills: Accelerate App Development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-in/yashrajnayak/962FF988EFFAE330?sharingId=7AC6735FC0CD4144)
-- [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
-
-## GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
+[View my portfolio](https://yashrajnayak.com)
