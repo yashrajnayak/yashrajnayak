@@ -2,9 +2,9 @@
   {
     "name": "developer-portfolio",
     "fullName": "yashrajnayak/developer-portfolio",
-    "description": "A modern, fully configurable developer portfolio that adapts to your content. Built with vanilla JavaScript and designed for GitHub Pages with automatic setup and dynamic content loading",
+    "description": "A beginner-friendly, config-driven static portfolio engine with accessible HTML, SEO, tests, and GitHub Pages deployment.",
     "url": "https://github.com/yashrajnayak/developer-portfolio",
-    "homepage": "",
+    "homepage": "https://yashrajnayak.github.io/developer-portfolio/",
     "language": "JavaScript",
     "stars": 96,
     "forks": 6,
@@ -16,8 +16,8 @@
       "responsive-design",
       "vanilla-javascript"
     ],
-    "updatedAt": "2026-05-05T06:28:19Z",
-    "pushedAt": "2026-05-05T06:28:15Z"
+    "updatedAt": "2026-08-08T16:21:17Z",
+    "pushedAt": "2026-08-08T16:21:15Z"
   },
   {
     "name": "connecticut",
@@ -102,10 +102,10 @@
   {
     "name": "yashrajnayak.github.io",
     "fullName": "yashrajnayak/yashrajnayak.github.io",
-    "description": "The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.",
+    "description": "Yashraj Nayak’s DevRel leadership portfolio—developer education, communities, events, and program automation.",
     "url": "https://github.com/yashrajnayak/yashrajnayak.github.io",
-    "homepage": "http://yashrajnayak.com/",
-    "language": "JavaScript",
+    "homepage": "https://yashrajnayak.com/",
+    "language": "",
     "stars": 1,
     "forks": 0,
     "topics": [
@@ -115,7 +115,7 @@
       "portfolio",
       "resume"
     ],
-    "updatedAt": "2026-06-26T05:42:54Z",
-    "pushedAt": "2026-07-20T03:35:16Z"
+    "updatedAt": "2026-08-08T16:18:04Z",
+    "pushedAt": "2026-08-08T16:19:30Z"
   }
 ]

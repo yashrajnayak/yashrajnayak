@@ -31,12 +31,12 @@ Developer Relations and University Programs Leader. University Alliances and Stu
 <!-- TOP-REPOS:START -->
 | Repository | Stars | Description | Language |
 | --- | ---: | --- | --- |
-| [developer-portfolio](https://github.com/yashrajnayak/developer-portfolio) | 96 | A modern, fully configurable developer portfolio that adapts to your content. Built with vanilla JavaScript and designed for GitHub Pages with automatic setup and dynamic content loading | JavaScript |
+| [developer-portfolio](https://github.com/yashrajnayak/developer-portfolio) | 96 | A beginner-friendly, config-driven static portfolio engine with accessible HTML, SEO, tests, and GitHub Pages deployment. | JavaScript |
 | [connecticut](https://github.com/yashrajnayak/connecticut) | 5 | Analyzes and visualizes connections between GitHub users, particularly useful for developer meetups and networking events. | JavaScript |
 | [linkedin-invitation-manager](https://github.com/yashrajnayak/linkedin-invitation-manager) | 3 | A powerful Chromium extension that transforms your LinkedIn connection request management with a beautiful, swipe-based interface. | JavaScript |
 | [connecticut-v1](https://github.com/yashrajnayak/connecticut-v1) | 2 | Earlier version of Connecticut for analyzing GitHub connections at developer events. | JavaScript |
 | [connecticut-plus](https://github.com/yashrajnayak/connecticut-plus) | 2 | Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time. | JavaScript |
-| [yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) | 1 | The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements. | JavaScript |
+| [yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) | 1 | Yashraj Nayak’s DevRel leadership portfolio—developer education, communities, events, and program automation. | Mixed |
 <!-- TOP-REPOS:END -->
 
 ## Connect
