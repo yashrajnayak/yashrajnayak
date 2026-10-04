@@ -1,48 +1,43 @@
-<img src="./images/linkedin-cover.jpeg" alt="Yashraj Nayak banner" width="100%" />
+<!-- Generated from the website config.json. Do not edit by hand. -->
+<img src="images/linkedin-cover.jpeg" alt="Yashraj Nayak" width="100%" />
 
-# Hi, I'm Yashraj Nayak
+# Yashraj Nayak
 
-Student Programs (APJ) at Databricks. Co-founder of Bengaluru Tech Week. Codex Ambassador.
+Student Programs (APJ) at Databricks. Co-founder, Bengaluru Tech Week. Codex Ambassador.
 
-I bring developers together to learn, build and share what works. My work connects developer education, community programs and useful software.
+I bring developers together to learn, build and share what works.
 
-[Explore my personal website →](https://yashrajnayak.com/)
+[Explore my personal website](https://yashrajnayak.com/) · [Download profile (PDF)](https://yashrajnayak.com/assets/downloads/yashraj-nayak-profile.pdf)
 
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-yashrajnayak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajnayak/)
-[![X](https://img.shields.io/badge/X-yashrajnayak-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yashrajnayak)
-[![Instagram](https://img.shields.io/badge/Instagram-yashrajnayak.dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yashrajnayak.dev)
-
-</div>
+[GitHub](https://github.com/yashrajnayak) · [LinkedIn](https://www.linkedin.com/in/yashrajnayak/) · [X](https://x.com/yashrajnayak)
 
 ## About
 
-- I work on student programs across APJ at Databricks, connecting students with the possibilities of data and AI.
-- I co-founded [Bengaluru Tech Week](https://bengalurutechweek.com/), a citywide week of independently hosted events.
-- As a Codex Ambassador, I host meetups and hackathons in Bengaluru and share what I learn while building with AI.
-- Previously: developer relations at MongoDB and GitHub, community growth at OutSystems, and community programs at Progate and Skillenza.
-- Based in Bengaluru, India.
+I work where developer education, community programs and software meet. I help people get started, meet fellow builders and keep learning.
 
-## Current Work
+## Current work
 
-- **Developer education:** student programs, campus communities and hands-on learning. I helped build and run [Bharat Bricks Hacks](https://bharatbricks.org/) across five campuses in India.
-- **Community gatherings:** bringing hosts and builders together through Bengaluru Tech Week and Codex events.
-- **Useful software:** a [developer portfolio starter](https://github.com/yashrajnayak/developer-portfolio), [GitHub connection explorer](https://github.com/yashrajnayak/connecticut), and [event registration tools](https://gittogethers.github.io/).
+### [Bengaluru Tech Week](https://bengalurutechweek.com/about)
 
-## Most Starred Repos
+A citywide week of independently hosted events. Working with a community of hosts, I helped bring different corners of Bengaluru’s tech ecosystem into one shared program.
 
-<!-- TOP-REPOS:START -->
-| Repository | Stars | Description | Language |
-| --- | ---: | --- | --- |
-| [developer-portfolio](https://github.com/yashrajnayak/developer-portfolio) | 96 | A beginner-friendly, config-driven static portfolio engine with accessible HTML, SEO, tests, and GitHub Pages deployment. | JavaScript |
-| [connecticut](https://github.com/yashrajnayak/connecticut) | 5 | Analyzes and visualizes connections between GitHub users, particularly useful for developer meetups and networking events. | JavaScript |
-| [linkedin-invitation-manager](https://github.com/yashrajnayak/linkedin-invitation-manager) | 3 | A powerful Chromium extension that transforms your LinkedIn connection request management with a beautiful, swipe-based interface. | JavaScript |
-| [connecticut-v1](https://github.com/yashrajnayak/connecticut-v1) | 2 | Earlier version of Connecticut for analyzing GitHub connections at developer events. | JavaScript |
-| [connecticut-plus](https://github.com/yashrajnayak/connecticut-plus) | 2 | Connecticut Plus is a companion app that compares two snapshots from the Connecticut app to visualize the growth in connections between GitHub users over time. | JavaScript |
-| [yashrajnayak.github.io](https://github.com/yashrajnayak/yashrajnayak.github.io) | 1 | Yashraj Nayak’s DevRel leadership portfolio—developer education, communities, events, and program automation. | JavaScript |
-<!-- TOP-REPOS:END -->
-<!-- Portfolio feed: data/top-repos.json is generated from the same ranked repository list. -->
+### [Learning by building.](https://bharatbricks.org/)
+
+Connecting students with the possibilities of data and AI.
+
+I work on student programs across APJ at Databricks. Earlier this year, I helped build and run Bharat Bricks Hacks across five campuses in India.
+
+What stays with me is the process: a rough idea, a team working through the hard parts, and a prototype they can finally show.
+
+### [Make something. Learn together.](https://www.linkedin.com/feed/update/urn:li:activity:7510543162411634689/)
+
+Hosting Codex meetups and hackathons in Bengaluru, sharing what I learn, and meeting the wider builder community. This year’s journey also took me to OpenAI Dev Day in San Francisco.
+
+## Projects
+
+- **[Developer Portfolio](https://github.com/yashrajnayak/developer-portfolio)** — A configurable starting point for a personal website.
+- **[Connecticut](https://github.com/yashrajnayak/connecticut)** — Explore the connections between people on GitHub.
+- **[GitTogethers](https://gittogethers.github.io/)** — Registration and check-in for developer gatherings.
 
 ## Certifications
 
@@ -50,13 +45,3 @@ I bring developers together to learn, build and share what works. My work connec
 - [GitHub Copilot](https://www.credly.com/badges/370d77b0-13a0-45a7-92ae-3326f64786be/)
 - [Microsoft Applied Skills: Accelerate App Development by using GitHub Copilot](https://learn.microsoft.com/api/credentials/share/en-in/yashrajnayak/962FF988EFFAE330?sharingId=7AC6735FC0CD4144)
 - [Meta Certified Community Manager](https://www.credly.com/badges/9f1fd9c1-3469-47d0-ad43-2647f638d622/)
-
-## GitHub Stats
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yashrajnayak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
