@@ -19,13 +19,13 @@ I work where developer education, community programs and software meet. I help p
 
 ### [Bengaluru Tech Week](https://bengalurutechweek.com/about)
 
-A citywide week of independently hosted events. Working with a community of hosts, I helped bring different corners of Bengaluru’s tech ecosystem into one shared program.
+As co-founder and co-director of Bengaluru Tech Week, I worked with a community of hosts to bring independently hosted events into one shared citywide program.
 
 ### [Learning by building.](https://bharatbricks.org/)
 
-Connecting students with the possibilities of data and AI.
+Student programs across APJ at Databricks.
 
-I work on student programs across APJ at Databricks. Earlier this year, I helped build and run Bharat Bricks Hacks across five campuses in India.
+Earlier this year, I helped build and run Bharat Bricks Hacks across five campuses in India, connecting students with hands-on experiences in data and AI.
 
 What stays with me is the process: a rough idea, a team working through the hard parts, and a prototype they can finally show.
 
@@ -37,7 +37,7 @@ Hosting Codex meetups and hackathons in Bengaluru, sharing what I learn, and mee
 
 - **[Developer Portfolio](https://github.com/yashrajnayak/developer-portfolio)** — A configurable starting point for a personal website.
 - **[Connecticut](https://github.com/yashrajnayak/connecticut)** — Explore the connections between people on GitHub.
-- **[GitTogethers](https://gittogethers.github.io/)** — Registration and check-in for developer gatherings.
+- **[GitTogethers](https://github.com/gittogethers)** — Registration and check-in for developer gatherings.
 
 ## Certifications
 
